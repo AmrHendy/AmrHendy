@@ -3,9 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amrhendy" alt="amrhendy" /> </p>
 
-- 🌱 I’m currently learning **NLP and Cloud Computing stuff (GCP, AWS, Docker, Kubernetes)**
+- ⚡ I’m currently working as Software Development Engineer on Machine Translation stuff at [Microsoft](https://github.com/microsoft).
 
-- 💬 Ask me about **anything related to NLP/Algorithms/Javascript/Angular/React**
+- 🌱 I’m currently learning NLP and Cloud Computing stuff (GCP, AWS, Docker, Kubernetes).
+
+- 💬 Ask me about anything related to NLP/Algorithms/Javascript/Angular/React.
 
 - 📫 How to reach me **amr.m.hendy@gmail.com**
 
