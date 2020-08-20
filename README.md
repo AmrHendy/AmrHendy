@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Amr Hendy</h1>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Amr Hendy</h1>
 <h3 align="center">This is the place where I opensource stuff and share my trials to new stuff</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amrhendy" alt="amrhendy" /> </p>
