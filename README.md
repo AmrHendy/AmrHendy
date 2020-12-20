@@ -4,6 +4,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amrhendy" alt="amrhendy" /> </p>
 
 - ⚡ I’m currently working as Software Development Engineer on Machine Translation stuff at [Microsoft](https://github.com/microsoft).
+  <br>
+  Check our latest accepted publication at EMNLP 2020 conference for WMT20 Shared Task on Parallel Corpus Filtering
+for Low Resource Conditions [Publication](http://www.statmt.org/wmt20/pdf/2020.wmt-1.106.pdf)
 
 - 🌱 I’m currently learning NLP and Cloud Computing stuff (GCP, AWS, Docker, Kubernetes).
 
