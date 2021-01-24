@@ -1,12 +1,12 @@
 <h1 align="center">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Amr Hendy</h1>
 <h3 align="center">This is the place where I opensource stuff and share my trials to new stuff</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=amrhendy" alt="amrhendy" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=amrhendy" alt="amrhendy" /> </p> -->
 
 - ⚡ I’m currently working as Software Development Engineer on Machine Translation stuff at [Microsoft](https://github.com/microsoft).
   <br>
   Check our latest accepted publication at EMNLP 2020 conference for WMT20 Shared Task on Parallel Corpus Filtering
-for Low Resource Conditions [Publication](http://www.statmt.org/wmt20/pdf/2020.wmt-1.106.pdf)
+for Low Resource Conditions [Publication](https://www.aclweb.org/anthology/2020.wmt-1.106/)
 
 - 🌱 I’m currently learning NLP and Cloud Computing stuff (GCP, AWS, Docker, Kubernetes).
 
